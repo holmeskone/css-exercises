@@ -1,0 +1,13 @@
+.button{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.button.left{
+    color: white;
+    background-color: rgb(0, 0, 94);
+}
+
+.button.right{
+    color: black;
+    background-color: rgb(255, 242, 0);
+}
